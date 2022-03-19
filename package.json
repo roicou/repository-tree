@@ -1,0 +1,23 @@
+{
+  "name": "repository-tree",
+  "version": "1.0.0",
+  "description": "Create repository tree for README",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roicou/repository-tree.git"
+  },
+  "author": "Roi C.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roicou/repository-tree/issues"
+  },
+  "homepage": "https://github.com/roicou/repository-tree#readme",
+  "dependencies": {
+    "inquirer": "^8.2.1",
+    "inquirer-autocomplete-prompt": "^2.0.0"
+  }
+}

@@ -1,2 +1,13 @@
 # repository-tree
-Create repository tree for README 
+Create repository structure for `README.md`
+
+## Structure
+```
+./
+├── 📄 .gitignore
+├── 🔑 LICENSE
+├── 📄 main.js
+├── 📄 package-lock.json
+├── 📄 package.json
+└── ℹ️ README.md
+```
